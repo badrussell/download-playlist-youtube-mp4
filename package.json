@@ -1,0 +1,15 @@
+{
+  "name": "download-playlist-youtube-mp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Eduardo da Silva Smolareck",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-playlist": "^1.0.2",
+    "ytdl-core": "^1.0.3"
+  }
+}
